@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://owo31way2rgj"
-path="res://.godot/imported/sheet.png-a1f310ea52daaca2303a673537f814f8.ctex"
+path="res://.godot/imported/sheet.png-883a719b63164d9e2afa888f12048ded.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/SpaceShooterRedux/Spritesheet/sheet.png"
-dest_files=["res://.godot/imported/sheet.png-a1f310ea52daaca2303a673537f814f8.ctex"]
+source_file="res://sprites/SpaceShooterRedux/Spritesheet/sheet.png"
+dest_files=["res://.godot/imported/sheet.png-883a719b63164d9e2afa888f12048ded.ctex"]
 
 [params]
 

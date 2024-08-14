@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://j04nmt1ebw6f"
-path="res://.godot/imported/cockpitYellow_4.png-eb7a83f10a8302d82afbff6649d678f1.ctex"
+path="res://.godot/imported/cockpitYellow_4.png-346d7c19adb89824252d38b808159d6a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/SpaceShooterRedux/PNG/Parts/cockpitYellow_4.png"
-dest_files=["res://.godot/imported/cockpitYellow_4.png-eb7a83f10a8302d82afbff6649d678f1.ctex"]
+source_file="res://sprites/SpaceShooterRedux/PNG/Parts/cockpitYellow_4.png"
+dest_files=["res://.godot/imported/cockpitYellow_4.png-346d7c19adb89824252d38b808159d6a.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://p2f1jsia2k7f"
-path="res://.godot/imported/playerLife2_blue.png-c9737fe8f8a212a7093c9024a4b12d5b.ctex"
+path="res://.godot/imported/playerLife2_blue.png-6492009cd9fc5feae899938e4fcb2734.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/SpaceShooterRedux/PNG/UI/playerLife2_blue.png"
-dest_files=["res://.godot/imported/playerLife2_blue.png-c9737fe8f8a212a7093c9024a4b12d5b.ctex"]
+source_file="res://sprites/SpaceShooterRedux/PNG/UI/playerLife2_blue.png"
+dest_files=["res://.godot/imported/playerLife2_blue.png-6492009cd9fc5feae899938e4fcb2734.ctex"]
 
 [params]
 

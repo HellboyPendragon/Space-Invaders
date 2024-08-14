@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dwvy2cb3gsks7"
-path="res://.godot/imported/star_silver.png-97467a88909ea619fd80baf505e446e5.ctex"
+path="res://.godot/imported/star_silver.png-c75c0bdcde88fabbd8b350e67dd7c210.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/SpaceShooterRedux/PNG/Power-ups/star_silver.png"
-dest_files=["res://.godot/imported/star_silver.png-97467a88909ea619fd80baf505e446e5.ctex"]
+source_file="res://sprites/SpaceShooterRedux/PNG/Power-ups/star_silver.png"
+dest_files=["res://.godot/imported/star_silver.png-c75c0bdcde88fabbd8b350e67dd7c210.ctex"]
 
 [params]
 

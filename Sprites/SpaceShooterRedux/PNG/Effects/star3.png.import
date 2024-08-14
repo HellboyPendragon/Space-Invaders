@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bgcenkdq0mawc"
-path="res://.godot/imported/star3.png-3c9a29bcdc75a41b37547532eab1736f.ctex"
+path="res://.godot/imported/star3.png-ff6fc06bf0987740b9703ed126d0d214.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/SpaceShooterRedux/PNG/Effects/star3.png"
-dest_files=["res://.godot/imported/star3.png-3c9a29bcdc75a41b37547532eab1736f.ctex"]
+source_file="res://sprites/SpaceShooterRedux/PNG/Effects/star3.png"
+dest_files=["res://.godot/imported/star3.png-ff6fc06bf0987740b9703ed126d0d214.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d3luytq6f4ana"
-path="res://.godot/imported/ufoRed.png-c1fb86250833057a13da20fa48d965b1.ctex"
+path="res://.godot/imported/ufoRed.png-3b50dc82183d3cb189b1d5f60e5d1b50.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/SpaceShooterRedux/PNG/ufoRed.png"
-dest_files=["res://.godot/imported/ufoRed.png-c1fb86250833057a13da20fa48d965b1.ctex"]
+source_file="res://sprites/SpaceShooterRedux/PNG/ufoRed.png"
+dest_files=["res://.godot/imported/ufoRed.png-3b50dc82183d3cb189b1d5f60e5d1b50.ctex"]
 
 [params]
 

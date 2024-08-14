@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cmqaenpxwladc"
-path="res://.godot/imported/scratch1.png-673a6e70c286276f5608a681569456b1.ctex"
+path="res://.godot/imported/scratch1.png-4e1f11db6f77abf2cd97e1075cba4b4b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/SpaceShooterRedux/PNG/Parts/scratch1.png"
-dest_files=["res://.godot/imported/scratch1.png-673a6e70c286276f5608a681569456b1.ctex"]
+source_file="res://sprites/SpaceShooterRedux/PNG/Parts/scratch1.png"
+dest_files=["res://.godot/imported/scratch1.png-4e1f11db6f77abf2cd97e1075cba4b4b.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bx415snjpagkp"
-path="res://.godot/imported/turretBase_big.png-bd17c726a548074d5094fb6776405c18.ctex"
+path="res://.godot/imported/turretBase_big.png-a6a51651436b974787ec242a595062ea.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/SpaceShooterRedux/PNG/Parts/turretBase_big.png"
-dest_files=["res://.godot/imported/turretBase_big.png-bd17c726a548074d5094fb6776405c18.ctex"]
+source_file="res://sprites/SpaceShooterRedux/PNG/Parts/turretBase_big.png"
+dest_files=["res://.godot/imported/turretBase_big.png-a6a51651436b974787ec242a595062ea.ctex"]
 
 [params]
 

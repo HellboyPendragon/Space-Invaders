@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bacgvpvqrumla"
-path="res://.godot/imported/fire17.png-846a3b0fc9a16016aeb903b64eb3891e.ctex"
+path="res://.godot/imported/fire17.png-c03f60bf868aa5e693991a07dded8ed2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/SpaceShooterRedux/PNG/Effects/fire17.png"
-dest_files=["res://.godot/imported/fire17.png-846a3b0fc9a16016aeb903b64eb3891e.ctex"]
+source_file="res://sprites/SpaceShooterRedux/PNG/Effects/fire17.png"
+dest_files=["res://.godot/imported/fire17.png-c03f60bf868aa5e693991a07dded8ed2.ctex"]
 
 [params]
 

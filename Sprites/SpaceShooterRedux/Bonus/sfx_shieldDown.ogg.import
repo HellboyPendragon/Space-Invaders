@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cnchrhrgjvhui"
-path="res://.godot/imported/sfx_shieldDown.ogg-b4e4c625bdbfb777f20bf962bbe90023.oggvorbisstr"
+path="res://.godot/imported/sfx_shieldDown.ogg-8256ae3bc7210743283ea06672582dd5.oggvorbisstr"
 
 [deps]
 
-source_file="res://Sprites/SpaceShooterRedux/Bonus/sfx_shieldDown.ogg"
-dest_files=["res://.godot/imported/sfx_shieldDown.ogg-b4e4c625bdbfb777f20bf962bbe90023.oggvorbisstr"]
+source_file="res://sprites/SpaceShooterRedux/Bonus/sfx_shieldDown.ogg"
+dest_files=["res://.godot/imported/sfx_shieldDown.ogg-8256ae3bc7210743283ea06672582dd5.oggvorbisstr"]
 
 [params]
 

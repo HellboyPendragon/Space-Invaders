@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d1p447tg61tgp"
-path="res://.godot/imported/pill_green.png-acd8056b6ccf9626f0ab8ba2cec12b1e.ctex"
+path="res://.godot/imported/pill_green.png-0a92721695472c79b52cd09a927954cd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/SpaceShooterRedux/PNG/Power-ups/pill_green.png"
-dest_files=["res://.godot/imported/pill_green.png-acd8056b6ccf9626f0ab8ba2cec12b1e.ctex"]
+source_file="res://sprites/SpaceShooterRedux/PNG/Power-ups/pill_green.png"
+dest_files=["res://.godot/imported/pill_green.png-0a92721695472c79b52cd09a927954cd.ctex"]
 
 [params]
 

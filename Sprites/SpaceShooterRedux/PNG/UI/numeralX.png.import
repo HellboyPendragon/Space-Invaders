@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cubwn1lwtueir"
-path="res://.godot/imported/numeralX.png-2d0f865649714791fedb73d9b512face.ctex"
+path="res://.godot/imported/numeralX.png-bfed0262b3ee7127710885ab76d78550.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/SpaceShooterRedux/PNG/UI/numeralX.png"
-dest_files=["res://.godot/imported/numeralX.png-2d0f865649714791fedb73d9b512face.ctex"]
+source_file="res://sprites/SpaceShooterRedux/PNG/UI/numeralX.png"
+dest_files=["res://.godot/imported/numeralX.png-bfed0262b3ee7127710885ab76d78550.ctex"]
 
 [params]
 
